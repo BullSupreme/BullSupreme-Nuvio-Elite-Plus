@@ -116,7 +116,6 @@ The gallery shows every badge included in the pack.
 | <img src="https://raw.githubusercontent.com/djgenesis/stream/refs/heads/main/badges/paramount.png" alt="Paramount+" height="40"> | Paramount+ |
 | <img src="https://raw.githubusercontent.com/djgenesis/stream/refs/heads/main/badges/CRAVE.png" alt="Crave" height="40"> | Crave |
 | <img src="https://raw.githubusercontent.com/djgenesis/stream/refs/heads/main/badges/CRUNCHYROL.png" alt="Crunchyroll" height="40"> | Crunchyroll |
-
 | <img src="elite-service-shudder.png" alt="Shudder" height="40"> | Shudder |
 | <img src="elite-service-starz.png" alt="STARZ" height="40"> | STARZ |
 | <img src="elite-service-tubi.png" alt="Tubi" height="40"> | Tubi |
