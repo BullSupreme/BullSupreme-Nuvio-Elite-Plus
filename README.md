@@ -21,10 +21,10 @@ The gallery shows every badge included in the pack.
 | Badge | Meaning |
 | :--- | :--- |
 | <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/remux.png" alt="REMUX" height="40"> | REMUX |
-| <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/blu_ray_disc.png" alt="Blu-ray Disc" height="40"> | Blu-ray Disc |
-| <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/WEBDL_transparent_4x.png" alt="WEB-DL" height="40"> | WEB-DL |
-| <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/WEBRip_transparent_4x.png" alt="WEBRip" height="40"> | WEBRip |
-| <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/HDTV_transparent_4x.png" alt="HDTV" height="40"> | HDTV |
+| <img src="elite-contrast-bluray.png" alt="Blu-ray Disc" height="40"> | Blu-ray Disc |
+| <img src="elite-contrast-webdl.png" alt="WEB-DL" height="40"> | WEB-DL |
+| <img src="elite-contrast-webrip.png" alt="WEBRip" height="40"> | WEBRip |
+| <img src="elite-contrast-hdtv.png" alt="HDTV" height="40"> | HDTV |
 | <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/DVD_RIP_transparent_4x.png" alt="DVD RIP" height="40"> | DVD RIP |
 
 ### Resolution
@@ -40,7 +40,7 @@ The gallery shows every badge included in the pack.
 
 | Badge | Meaning |
 | :--- | :--- |
-| <img src="elite-readable-vision.png" alt="Dolby Vision" height="40"> | Dolby Vision |
+| <img src="elite-contrast-vision.png" alt="Dolby Vision" height="40"> | Dolby Vision |
 | <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/hdr10_plus.png" alt="HDR10+" height="40"> | HDR10+ |
 | <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/hdr10.png" alt="HDR10" height="40"> | HDR10 |
 | <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/hdr.png" alt="HDR" height="40"> | HDR |
@@ -89,7 +89,7 @@ The gallery shows every badge included in the pack.
 
 | Badge | Meaning |
 | :--- | :--- |
-| <img src="elite-flag-de.png" alt="German" height="40"> | German |
+| <img src="elite-flag-ge.png" alt="German" height="40"> | German |
 | <img src="elite-flag-en.png" alt="English" height="40"> | English |
 | <img src="elite-flag-es.png" alt="Spanish" height="40"> | Spanish |
 | <img src="elite-flag-fr.png" alt="French" height="40"> | French |
@@ -117,12 +117,19 @@ The gallery shows every badge included in the pack.
 | <img src="https://raw.githubusercontent.com/djgenesis/stream/refs/heads/main/badges/CRAVE.png" alt="Crave" height="40"> | Crave |
 | <img src="https://raw.githubusercontent.com/djgenesis/stream/refs/heads/main/badges/CRUNCHYROL.png" alt="Crunchyroll" height="40"> | Crunchyroll |
 
+| <img src="elite-service-shudder.png" alt="Shudder" height="40"> | Shudder |
+| <img src="elite-service-starz.png" alt="STARZ" height="40"> | STARZ |
+| <img src="elite-service-tubi.png" alt="Tubi" height="40"> | Tubi |
+| <img src="elite-service-britbox.png" alt="BritBox" height="40"> | BritBox |
+| <img src="elite-service-amcplus.png" alt="AMC+" height="40"> | AMC+ |
+| <img src="elite-service-cbcg.png" alt="CBC Gem" height="40"> | CBC Gem |
+
 ### Anime
 
 | Badge | Meaning |
 | :--- | :--- |
-| <img src="elite-readable-seadex-best.png" alt="SeaDex Best" height="40"> | SeaDex Best |
-| <img src="elite-readable-seadex-alt.png" alt="SeaDex Alternative" height="40"> | SeaDex Alternative |
+| <img src="elite-contrast-seadex-best.png" alt="SeaDex Best" height="40"> | SeaDex Best |
+| <img src="elite-contrast-seadex-alt.png" alt="SeaDex Alternative" height="40"> | SeaDex Alternative |
 
 ## Credits
 
