@@ -40,7 +40,7 @@ The gallery shows every badge included in the pack.
 
 | Badge | Meaning |
 | :--- | :--- |
-| <img src="elite-art-vision.png" alt="Dolby Vision" height="40"> | Dolby Vision |
+| <img src="elite-readable-vision.png" alt="Dolby Vision" height="40"> | Dolby Vision |
 | <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/hdr10_plus.png" alt="HDR10+" height="40"> | HDR10+ |
 | <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/hdr10.png" alt="HDR10" height="40"> | HDR10 |
 | <img src="https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/hdr.png" alt="HDR" height="40"> | HDR |
@@ -121,8 +121,8 @@ The gallery shows every badge included in the pack.
 
 | Badge | Meaning |
 | :--- | :--- |
-| <img src="elite-art-seadex-best.png" alt="SeaDex Best" height="40"> | SeaDex Best |
-| <img src="elite-art-seadex-alt.png" alt="SeaDex Alternative" height="40"> | SeaDex Alternative |
+| <img src="elite-readable-seadex-best.png" alt="SeaDex Best" height="40"> | SeaDex Best |
+| <img src="elite-readable-seadex-alt.png" alt="SeaDex Alternative" height="40"> | SeaDex Alternative |
 
 ## Credits
 
